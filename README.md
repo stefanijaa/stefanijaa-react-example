@@ -10,8 +10,8 @@ Requirements:
 To run the app locally:
 
 ```bash
-git clone https://github.com/mzabriskie/react-example.git
-cd react-example
+git clone https://github.com/stefanijaa/stefanijaa-react-example.git
+cd stefanijaa-react-example
 npm run setup
 npm run dev
 open http://localhost:8080
